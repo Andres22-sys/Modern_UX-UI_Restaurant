@@ -17,11 +17,11 @@ const Chef = () => (
             <div className="app__chef-content">
                 <div className="app__chef-content_quote">
                     <img src={images.quote} alt="quote"/>
-                    <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit.</p>
+                    <p className="p__opensans">At Gericht, we believe in the power of food to bring people together.</p>
                 </div>
-                <p className="p__opensans">auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla
-                    scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer
-                    curabitur semper sit nunc.</p>
+                <p className="p__opensans">It’s more than just a meal—it’s about connection, shared moments, and
+                    unforgettable experiences. Every plate reflects our passion for culinary artistry, blending
+                    tradition with creativity to inspire and delight..</p>
             </div>
 
             <div className="app__chef-sign">

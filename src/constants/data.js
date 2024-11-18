@@ -60,23 +60,27 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Recognizing our exceptional value and quality.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Honoring our innovative approach and impact on the dining experience..',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Celebrating our commitment to outstanding service and ambiance.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'A tribute to our chef\'s creativity, mastery, and leadership.',
   },
 ];
 
-export default { wines, cocktails, awards };
+// Assign the object to a variable
+const data = { wines, cocktails, awards };
+
+// Export the variable as default
+export default data;
