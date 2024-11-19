@@ -64,6 +64,3 @@ This project is inspired by the tutorial by [JavaScript Mastery](https://www.you
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Let me know if you’d like further refinements or additional sections!
